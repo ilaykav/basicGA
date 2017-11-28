@@ -1,0 +1,9 @@
+﻿  enemies.cpp
+c:\users\adi\desktop\ilay\projects\cpp-projects\ga\sfml4.0\item.h(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\adi\desktop\ilay\projects\cpp-projects\ga\sfml4.0\brain.cpp(90): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\adi\desktop\ilay\projects\cpp-projects\ga\sfml4.0\enemies.cpp(81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\adi\desktop\ilay\projects\cpp-projects\ga\sfml4.0\enemies.cpp(86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\adi\desktop\ilay\projects\cpp-projects\ga\sfml4.0\enemies.cpp(96): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\adi\desktop\ilay\projects\cpp-projects\ga\sfml4.0\enemies.cpp(97): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+ball.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  sfml4.0.vcxproj -> C:\Users\Adi\Desktop\Ilay\PROJECTS\CPP-PROJECTS\GA\x64\Debug\sfml4.0.exe
